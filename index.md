@@ -13,7 +13,7 @@ I have worked with tools such as Python, Stata, R, SPSS, and Excel to support da
 I am currently seeking a Research Assistant position in an academic setting, where I can contribute to ongoing research projects and further develop my methodological skills.
 
 ## Research Projects
-- [Psychosocial research on volunteer training and service identity in an emotional support program](projects/psychosocial-research.md)
+- [Psychosocial research on volunteer training and service identity in an emotional support program](Projects/Psychosocial-research.md)
 
 ## CV
 Curriculum Vitae.
