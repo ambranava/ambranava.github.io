@@ -1,4 +1,4 @@
-### Psychosocial Research Project – Volunteer-Based Emotional Support Service
+### Psychosocial research project on volunteer training and service identity in an emotional support program
 
 **Context.**  
 The study was commissioned by a volunteer-based emotional support service and conducted by the university in response to an applied research need.
