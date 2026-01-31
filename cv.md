@@ -36,8 +36,8 @@ MS Teams (online meetings and collaboration), SharePoint (collaborative document
 - Prepared structured datasets for analysis and reporting  
 - Examples: matched/imported ~250 products into an e-commerce platform within 15 days; completed full data entry of 500 products within 5 days; entered over 1,600 records into Excel within 4 days  
 - Tools: Excel (advanced), Word, Google Workspace, SPSS, Wix 
-[Assist-you-with-data-entry-and-data-analysis](https://www.fiverr.com/ambra_n/assist-you-with-data-entry-and-data-analysis)
-[Help-you-with-the-italian-language](https://www.fiverr.com/ambra_n/help-you-with-the-italian-language)
+- [Assist-you-with-data-entry-and-data-analysis](https://www.fiverr.com/ambra_n/assist-you-with-data-entry-and-data-analysis)
+- [Help-you-with-the-italian-language](https://www.fiverr.com/ambra_n/help-you-with-the-italian-language)
 
 **Event Assistant – CSV Insubria / Como Book Fair (Volunteer)**  
 - Supported operational and logistical activities during public and cultural events  
