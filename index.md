@@ -16,4 +16,4 @@ I am currently seeking a Research Assistant position in an academic setting, whe
 - [Psychosocial research on volunteer training and service identity in an emotional support program](Projects/Psychosocial-research.md)
 
 ## CV
-Curriculum Vitae.
+- [View full CV](cv.md)
