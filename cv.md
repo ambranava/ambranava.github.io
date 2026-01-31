@@ -3,7 +3,7 @@
 **Ambra Nava**  
 Email: ambra.nava91@gmail.com  
 LinkedIn: [www.linkedin.com/in/ambranava](https://linkedin.com/in/ambranava)  
-Portfolio: [ambranava.github.io](ambranava.github.io)
+Portfolio: Portfolio: [https://ambranava.github.io](https://ambranava.github.io)
 
 ## Education
 **Bachelor’s Degree in Psychology**  
