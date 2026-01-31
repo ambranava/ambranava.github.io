@@ -14,9 +14,12 @@ Università Cattolica del Sacro Cuore, Italy
 *Relevant coursework: Interview & Survey Methods, Psychometry, Psychosocial Research*
 
 ## Professional Certifications and Trainings
-- Excel for business (Specialization) – Macquarie University, Coursera  
-- Methods and statistics in social sciences (Specialization) – University of Amsterdam, Coursera  
+- Excel for business (Specialization) – Macquarie University, Coursera
+  *Skills gained: advanced Excel, data cleaning, reporting, dashboard creation*
+- Methods and statistics in social sciences (Specialization) – University of Amsterdam, Coursera
+  *Skills gained: survey design, statistical analysis, psychometrics, research methodology*
 - [Google data analysis with Python](https://coursera.org/share/e02ef23f660eb561b862031ae6ca832f)
+  *Skills gained: Python for data analysis, data visualization, data management*
 
 ## Technical and Analytical Skills
 **Data Analysis:** Excel (advanced), SPSS (intermediate), Python (intermediate)  
