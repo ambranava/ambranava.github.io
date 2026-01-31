@@ -4,7 +4,6 @@
 Email: ambra.nava91@gmail.com  
 LinkedIn: [www.linkedin.com/in/ambranava](https://linkedin.com/in/ambranava)  
 Portfolio: [ambranava.github.io](ambranava.github.io)
-Telefono: +39 334 393 2257
 
 ## Education
 **Bachelor’s Degree in Psychology**  
