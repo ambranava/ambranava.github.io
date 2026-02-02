@@ -44,7 +44,7 @@ To facilitate creative and reflective responses, the following qualitative techn
 
 Detailed data collection instruments are provided in the appendices:
 - Appendix A: - [Interviews guide](Appendices/Psychosocial-research/Interviews-guide.md)  
-- Appendix B: Focus Group Guide
+- Appendix B: - [Focus groups guide](Appendices/Psychosocial-research/Focus-groups-guide.md) 
 
 **Participants.**  
 The study involved a total of 27 volunteers from the service, including:
