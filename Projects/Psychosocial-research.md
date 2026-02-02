@@ -43,7 +43,7 @@ To facilitate creative and reflective responses, the following qualitative techn
 - Personifications and scenario-based activities
 
 Detailed data collection instruments are provided in the appendices:
-- Appendix A: - [Interview guide](Interview-guide.md)  
+- Appendix A: - [Interviews guide](Interviews-guide.md)  
 - Appendix B: Focus Group Guide
 
 **Participants.**  
