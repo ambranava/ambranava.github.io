@@ -43,7 +43,7 @@ To facilitate creative and reflective responses, the following qualitative techn
 - Personifications and scenario-based activities
 
 Detailed data collection instruments are provided in the appendices:
-- Appendix A: - [Interviews guide](ambranava.github.io/Appendices/Psychosocial-research/Interviews-guide.md)  
+- Appendix A: - [Interviews guide](Appendices/Psychosocial-research/Interviews-guide.md)  
 - Appendix B: Focus Group Guide
 
 **Participants.**  
