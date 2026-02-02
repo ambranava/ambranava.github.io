@@ -43,7 +43,7 @@ To facilitate creative and reflective responses, the following qualitative techn
 - Personifications and scenario-based activities
 
 Detailed data collection instruments are provided in the appendices:
-- Appendix A: Semi-Structured Interview Guide
+- Appendix A: [Semi-structured interviews guide](https://ambranava.github.io/Appendices/) 
 - Appendix B: Focus Group Guide
 
 **Participants.**  
