@@ -1,12 +1,12 @@
 ## Data Collection – Focus groups guide
 
-### Research Context
+### Research context
 
 Two ideation-focused group discussions were conducted with Telefono Amico Italia (TAI) volunteers as part of a psychosocial qualitative research project aimed at supporting the development of a future communication campaign.
 
 The focus groups were designed to explore shared meanings, values, emotional representations, and symbolic constructions of TAI, while also fostering creative ideation for communication purposes.
 
-### Focus Group Structure
+### Focus group structure
 
 The interview guide was structured into three main sections:
 
@@ -42,7 +42,7 @@ These included:
 
 Participants were invited to reflect on similarities and differences in representations and emotions emerging within the group.
 
-**4. Image and Values of Telefono Amico Italia**
+**4. Image and values of Telefono Amico Italia**
 This phase focused on the collective construction of TAI’s identity.
 
 Activities included:
@@ -75,5 +75,5 @@ Moderation focused on maintaining attention to value-laden content and shared me
 - Creative and projective techniques were intentionally used to support ideation and symbolic expression.
 - Participants were volunteers of TAI; no personal identifiers were collected or reported.
 
-> Note: The original focus group guide was developed in Italian, as the research was conducted in an Italian contest with Italian volunteers.  
+> Note: the original focus group guide was developed in Italian, as the research was conducted in an Italian contest with Italian volunteers.  
 > A full operational version of the focus group guide is available upon request.
