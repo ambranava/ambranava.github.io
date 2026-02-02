@@ -42,6 +42,10 @@ To facilitate creative and reflective responses, the following qualitative techn
 - Projective techniques, metaphors, and associative methods  
 - Personifications and scenario-based activities
 
+Detailed data collection instruments are provided in the appendices:
+- Appendix A: Semi-Structured Interview Guide
+- Appendix B: Focus Group Guide
+
 **Participants.**  
 The study involved a total of 27 volunteers from the service, including:
 
