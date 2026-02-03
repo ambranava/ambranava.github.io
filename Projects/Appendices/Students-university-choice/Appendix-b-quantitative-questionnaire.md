@@ -1,4 +1,4 @@
-# Appendix B – Quantitative Questionnaire
+# Appendix B – Quantitative questionnaire
 
 ## Purpose of the questionnaire
 This questionnaire was designed to investigate:
@@ -12,6 +12,51 @@ was administered to upper secondary school students in Lombardy.
 > **Note:** The questionnaire is reported in its original Italian version.
 > The original research was conducted in Italian; results are discussed in English
 > in the main project sections.
+
+---
+
+## Conceptual rationale and structure
+The questionnaire followed a structured and hierarchical design, articulated into
+three main sections corresponding to the core analytical dimensions:
+
+1. Orientation
+2. University choice process
+3. Image of Università Cattolica del Sacro Cuore
+
+Each section included both filter questions and Likert-type items in order to
+capture differences between students with a defined choice and those still undecided.
+
+---
+
+## Measurement strategy
+Across different orientation modalities (school-based activities, web, open days,
+public events, informal sources), the same informational dimensions were assessed:
+- type of universities,
+- location,
+- degree structure,
+- access modalities,
+- study plans.
+
+This approach allowed direct comparison between orientation channels during analysis.
+
+---
+
+## Scales and item types
+Most items were measured using 5-point Likert scales ranging from
+1 (“not at all”) to 5 (“very much”), with additional “I don’t know” options
+for perception-based items.
+
+Both closed-ended and open-ended questions were included to capture
+quantitative trends and contextual clarifications.
+
+---
+
+## Notes on language and context
+The questionnaire was originally developed and administered in Italian,
+as the study was conducted within the Lombardy educational context.
+
+All results and interpretations presented in this portfolio
+are summarized and discussed in English.
 
 ---
 
