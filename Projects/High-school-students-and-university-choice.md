@@ -100,7 +100,7 @@ Students in the 5th year of high schools in Lombardy (external validity is limit
 - Qualitative interviews provided critical insights for refining the quantitative survey, highlighting previously unconsidered factors.
 
 Detailed outputs are provided in the appendix:
-- Appendix C: - [Results and insights](Projects/Appendices/Students-university-choice/Appendix-c-quantitative-results.md) 
+- Appendix C: - [Results and insights](Appendices/Students-university-choice/Appendix-c-quantitative-results.md) 
 
 **Key takeaways.**  
 The project provided the opportunity to develop practical research skills and experience working in a professional research context. Key outcomes included:
