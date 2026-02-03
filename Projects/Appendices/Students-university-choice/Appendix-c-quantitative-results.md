@@ -28,7 +28,7 @@ derived from Likert-scale items.
 The complete set of quantitative results, including graphical outputs
 and numerical summaries, is provided in the following document:
 
-**[Quantitative results – full output (PDF)](Students-university-choice/Assets/Quantitative-results.pdf)**
+**[Quantitative results – full output (PDF)](Assets/Quantitative-results.pdf)**
 
 ---
 
