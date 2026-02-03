@@ -9,10 +9,6 @@ This questionnaire was designed to investigate:
 The instrument was developed following a qualitative exploratory phase and
 was administered to upper secondary school students in Lombardy.
 
-> **Note:** The questionnaire is reported in its original Italian version.
-> The original research was conducted in Italian; results are discussed in English
-> in the main project sections.
-
 ---
 
 ## Conceptual rationale and structure
