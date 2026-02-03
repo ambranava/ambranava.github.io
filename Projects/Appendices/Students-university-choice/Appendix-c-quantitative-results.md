@@ -2,7 +2,7 @@
 
 ## Purpose of this appendix
 This appendix documents the quantitative outputs of the study
-*High School Students and University Choice*.
+*High school students and university choice*.
 
 The aim is to provide transparent access to the empirical results
 that support the findings discussed in the main project section,
