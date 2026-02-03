@@ -87,8 +87,8 @@ The qualitative phase informed the questionnaire design, while the quantitative 
    - Together, both phases allowed a comprehensive understanding of student decision-making and perceptions.
 
 Detailed data collection instruments are provided in the appendices:
-- Appendix A: - [Interview guide](Appendices/High-school-students-and-university-choice/Interview-guide.md)  
-- Appendix B: - [Questionnaire guide](Appendices/High-school-students-and-university-choice/Questionnaire-guide.md) 
+- Appendix A: - [Interview guide](Appendices/Students-university-choice/Appendix-a-qualitative-design.md)  
+- Appendix B: - [Questionnaire guide](Appendices/Students-university-choice/Appendix-b-quantitative-design.md) 
 
 **Participants.**  
 Students in the 5th year of high schools in Lombardy (external validity is limited to this population).
@@ -100,7 +100,7 @@ Students in the 5th year of high schools in Lombardy (external validity is limit
 - Qualitative interviews provided critical insights for refining the quantitative survey, highlighting previously unconsidered factors.
 
 Detailed outputs are provided in the appendix:
-- Appendix C: - [Results and insights](Appendices/High-school-students-and-university-choice/Results-and-insights.md) 
+- Appendix C: - [Results and insights](Appendices/Students-university-choice/Results-and-insights.md) 
 
 **Key takeaways.**  
 The project provided the opportunity to develop practical research skills and experience working in a professional research context. Key outcomes included:
