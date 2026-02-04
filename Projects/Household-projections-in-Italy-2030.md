@@ -32,7 +32,7 @@ The project adopts a **quantitative, secondary-data-based approach**, with parti
 - Comparative regional approach  
 
 Methodological assumptions and projection schemes are documented in the appendix:
--[Appendix A - Methodology](Appendices/Households-projections-in-Italy-2030/Appendix-a-methodology.md) 
+[Appendix A - Methodology](Appendices/Households-projections-in-Italy-2030/Appendix-a-methodology.md) 
 
 ---
 
