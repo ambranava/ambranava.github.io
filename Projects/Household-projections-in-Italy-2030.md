@@ -9,7 +9,7 @@ The project adopts a **quantitative, secondary-data-based approach**, with parti
 
 ---
 
-## Research Objectives
+## Research objectives
 - Describe current household structures in the two regions  
 - Project demographic and household trends up to 2030  
 - Compare regional patterns and trajectories  
@@ -17,7 +17,7 @@ The project adopts a **quantitative, secondary-data-based approach**, with parti
 
 ---
 
-## Data Sources
+## Data sources
 - Official demographic statistics (ISTAT)  
 - Aggregated regional-level data  
 - Secondary data only  
@@ -36,8 +36,8 @@ Methodological assumptions and projection schemes are documented in the appendix
 
 ---
 
-## Key Findings
-- Increase in **single-person households**, particularly among older adults  
+## Key findings
+- Increase in single-person households, particularly among older adults  
 - Strong impact of population ageing on household composition  
 - Persistent regional differences between Lombardy and Sardinia  
 - Potential pressure on housing systems and welfare services  
@@ -56,14 +56,14 @@ Outputs are documented in the appendix:
 
 ---
 
-## Research Scope and Limitations
+## Research scope and limitations
 - Regional focus limited to Lombardy and Sardinia  
 - Projections based on available secondary data  
 - Results should be interpreted as scenario-based estimates
 
 ---
 
-## Skills & Tools
+## Skills and tools
 - Demographic analysis  
 - Quantitative reasoning  
 - Scenario building  
