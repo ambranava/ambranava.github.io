@@ -64,3 +64,30 @@ The analysis focused on scenario-based projections, not on precise population fo
 
 ---
 
+## Assumptions
+The projections were based on the following assumptions:
+- continuity of recent demographic trends
+- absence of major structural shocks (e.g. radical policy reforms or unexpected migration flows)
+- stability of regional socio-economic patterns
+
+These assumptions were explicitly adopted to ensure methodological clarity.
+
+---
+
+## Limitations
+Several limitations should be acknowledged:
+- the projections are not predictive models, but trend-based scenarios
+- regional-level data do not capture intra-regional heterogeneity
+- the analysis does not incorporate behavioral or policy simulations
+
+Results should therefore be interpreted as indicative patterns, not deterministic outcomes.
+
+---
+
+## Ethical and data considerations
+All data used were:
+- publicly available
+- aggregated
+- fully anonymized
+
+No personal or sensitive information was processed.
