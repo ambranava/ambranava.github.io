@@ -1,6 +1,4 @@
-# Ambra Nava
-
-Research portfolio
+# Ambra Nava - Research portfolio
 
 ## About
 I am a Bachelor’s graduate in Psychology with a focus on research methods and data analysis. 
