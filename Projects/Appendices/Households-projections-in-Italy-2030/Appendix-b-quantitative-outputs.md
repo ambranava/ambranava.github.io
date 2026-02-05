@@ -6,10 +6,14 @@ This appendix presents the main quantitative outputs of the demographic projecti
 Results are shown separately for each region (Lombardy and Sardinia).
 A comparative interpretation across regions is provided exclusively in the Conclusions (Appendix C), where trends and structural differences are discussed jointly.
 
+---
+
 ## Organization of results
 Quantitative outputs are organized:
 - by region
 - by households dimension
+
+---
 
 ## Lombardy - Household structure projections
 ### Figure B1 - Household composition by typology (%), Lombardy
@@ -32,6 +36,8 @@ Projected distribution of main household typologies in Sardinia up to 2030.
 **Type**: Line chart (absolute values)
 **Time horizon**: Projection to 2030
 Projected total number of households in Sardinia. Absolute values provide scale context for percentage-based trends.
+
+---
 
 ## Lombardy - Population age structure
 ### Figure B5 - Population age pyramid (projection to 2030)
