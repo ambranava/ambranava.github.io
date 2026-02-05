@@ -53,6 +53,6 @@ The age pyramid represents a key analytical dimension of the study, informing ch
 
 **[Projected population age structure by age and sex (2011).](Assets/Fig-6a.jpg)**
 
-**[Projected population age structure by age and sex (2030).](Assets/Fig-6a.jpg)**
+**[Projected population age structure by age and sex (2030).](Assets/Fig-6b.jpg)**
 
 The pyramid highlights structural demographic patterns relevant to the interpretation of household dynamics.
