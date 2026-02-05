@@ -15,7 +15,7 @@ Quantitative outputs are organized:
 ### Figure B1 - Household composition by typology (%), Lombardy
 **Type**: Line chart (percentages).
 **Time horizon**: Projection to 2030.
-(Projects/Assets/Household-projections-in-Italy-2030/Images/Fig.1.jpg)
+[Projected distribution of main household typologies in Lombardy up to 2030.](Projects/Assets/Household-projections-in-Italy-2030/Images/Fig.1.jpg)
 Projected distribution of main household typologies in Lombardy up to 2030.
 
 ### Figure B2 - Total number of households (absolute values), Lombardy
