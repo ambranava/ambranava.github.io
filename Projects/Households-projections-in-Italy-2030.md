@@ -67,7 +67,7 @@ Outputs are documented in the appendix:
 
 ## Conclusions
 
-- [Appendix C - Interpretation and conclusions](Appendices/Households-projections-in-Italy-2030/Appendix-c-interpretation and conclusions.md)
+[Appendix C - Interpretation and conclusions](Appendices/Households-projections-in-Italy-2030/Appendix-c-interpretation-and-conclusions.md)
 
 ---
 
