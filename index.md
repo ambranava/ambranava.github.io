@@ -12,6 +12,7 @@ I am currently seeking a Research Assistant position in an academic setting, whe
 
 ## Research Projects
 - [High school students and university choice](Projects/High-school-students-and-university-choice.md)
+- [Households projections to 2030 in Italy](Projects/Households-projections-in-Italy-2030)
 - [Psychosocial research on volunteer training and service identity in an emotional support program](Projects/Psychosocial-research.md)
 
 ## CV
