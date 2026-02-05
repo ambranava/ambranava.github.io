@@ -51,7 +51,7 @@ Methodological assumptions and projection schemes are documented in the appendix
 - Methodological documentation  
 
 Outputs are documented in the appendix:
-[Appendix B – Quantitative results and projections](Appendices/Households-projections-in-Italy-2030/Appendix-b-outputs.md)
+[Appendix B – Quantitative results and projections](Appendices/Households-projections-in-Italy-2030/Appendix-b-quantitative-outputs.md)
 
 > Note: figures and tables are presented in Italian, as the original research was conducted within an Italian academic context.
 
