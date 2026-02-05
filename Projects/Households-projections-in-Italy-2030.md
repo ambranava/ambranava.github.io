@@ -33,7 +33,7 @@ The project adopts a **quantitative, secondary-data-based approach**, with parti
 
 Methodological assumptions and projection schemes are documented in the appendix:
 
-[Appendix A - Methodology](Appendices/Households-projections-in-Italy-2030/Appendix-a-methodology.md) 
+**[Appendix A - Methodology](Appendices/Households-projections-in-Italy-2030/Appendix-a-methodology.md)**
 
 ---
 
@@ -52,7 +52,7 @@ Methodological assumptions and projection schemes are documented in the appendix
 
 Outputs are documented in the appendix:
 
-[Appendix B – Quantitative results and projections](Appendices/Households-projections-in-Italy-2030/Appendix-b-quantitative-outputs.md)
+**[Appendix B – Quantitative results and projections](Appendices/Households-projections-in-Italy-2030/Appendix-b-quantitative-outputs.md)**
 
 > Note: figures and tables are presented in Italian, as the original research was conducted within an Italian academic context.
 
@@ -67,7 +67,7 @@ Outputs are documented in the appendix:
 
 ## Conclusions
 
-[Appendix C - Interpretation and conclusions](Appendices/Households-projections-in-Italy-2030/Appendix-c-interpretation-and-conclusions.md)
+**[Appendix C - Interpretation and conclusions](Appendices/Households-projections-in-Italy-2030/Appendix-c-interpretation-and-conclusions.md)**
 
 ---
 
