@@ -12,8 +12,11 @@ I am currently seeking a Research Assistant position in an academic setting, whe
 
 ## Research Projects
 - [High school students and university choice](Projects/High-school-students-and-university-choice.md)
+  Mixed-methods research combining qualitative interviews and quantitative surveys.
 - [Households projections to 2030 in Italy](Projects/Households-projections-in-Italy-2030.md)
+  Quantitative demographic analysis focusing on household composition and population ageing.
 - [Psychosocial research on volunteer training and service identity in an emotional support program](Projects/Psychosocial-research.md)
+  Qualitative research project supporting communication strategy development.
 
 ## CV
 - [View full CV](cv.md)
