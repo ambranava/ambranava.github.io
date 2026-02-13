@@ -4,7 +4,6 @@ Portfolio website: https://ambranava.github.io/
 This repository contains selected academic and applied research projects developed in the fields of psychology, education, and demographic analysis. The portfolio documents methodological approaches, data analysis procedures, and research design processes.
 
 ## Repository Structure
-
 - Project1: High-school-students-and-university-choice  
   Mixed-methods research on educational decision-making.
 
@@ -16,3 +15,14 @@ This repository contains selected academic and applied research projects develop
 
 - Appendices  
   Methodological documentation and detailed outputs.
+
+## Methodological Focus
+The projects included in this portfolio involve:
+- Survey and interview design
+- Mixed-methods research
+- Quantitative data analysis
+- Demographic projections
+- Data cleaning and documentation
+- Reproducible analytical workflows
+
+This portfolio is intended to document practical research experience and methodological development beyond formal academic coursework.
