@@ -5,14 +5,14 @@ This repository contains selected academic and applied research projects develop
 
 ## Repository Structure
 
-- /project-1-high-school-students-and-university-choice  
+- Project1: High-school-students-and-university-choice  
   Mixed-methods research on educational decision-making.
 
-- /project-2-household-projections-in-Italy-2030  
+- Project2: Household-projections-in-Italy-2030  
   Quantitative demographic analysis and projections.
 
-- /project-3-psychosocial-research  
+- Project3: Psychosocial-research  
   Applied data cleaning and exploratory analysis using Python.
 
-- /appendices  
+- Appendices  
   Methodological documentation and detailed outputs.
