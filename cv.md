@@ -18,8 +18,10 @@ Università Cattolica del Sacro Cuore, Italy
   *Skills gained: advanced Excel, data cleaning, reporting, dashboard creation*
 - Methods and statistics in social sciences (Specialization) – University of Amsterdam, Coursera
   *Skills gained: survey design, statistical analysis, psychometrics, research methodology*
-- [Google data analysis with Python](https://coursera.org/share/e02ef23f660eb561b862031ae6ca832f)
+- [Google data analysis with Python - Google, Coursera](https://coursera.org/share/e02ef23f660eb561b862031ae6ca832f)
   *Skills gained: Python for data analysis, data visualization, data management*
+- [Elements of AI: Introduction to AI - University of Helsinki](https://certificates.mooc.fi/validate/c5t6nvuu7q5)
+- *Skills gained: Basic knowledge of AI and its applications, AI theory*
 
 ## Technical and Analytical Skills
 **Data Analysis:** Excel (advanced), SPSS (intermediate), Python (intermediate)  
