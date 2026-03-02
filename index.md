@@ -8,7 +8,7 @@ During my studies, I contributed to research activities involving surveys, inter
 I am familiar with both quantitative and qualitative methodologies, including survey research, interview-based studies, and thematic analysis.
 
 I have worked with tools such as Python, Stata, R, SPSS, and Excel to support data cleaning, exploratory analysis, and reporting. 
-I am currently seeking a Research Assistant position in an academic setting, where I can contribute to ongoing research projects and further develop my methodological skills.
+I am currently seeking a research position, where I can contribute to ongoing research projects and further develop my methodological skills.
 
 ## Research Projects
 - [High school students and university choice](Projects/High-school-students-and-university-choice.md)
