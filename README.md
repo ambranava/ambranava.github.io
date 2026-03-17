@@ -11,7 +11,7 @@ This repository contains selected academic and applied research projects develop
   Quantitative demographic analysis and projections.
 
 - Project3: Psychosocial-research  
-  Qualitative research on .
+  Qualitative research on volunteer training and service identity in an emotional support program.
 
 - Appendices  
   Methodological documentation and detailed outputs.
