@@ -1,17 +1,21 @@
 Portfolio website: https://ambranava.github.io/
 
-# Research and Data Analysis Portfolio
-This repository contains selected academic and applied research projects developed in the fields of psychology, education, and demographic analysis. The portfolio documents methodological approaches, data analysis procedures, and research design processes.
+# Market Research and Data Analysis Portfolio
+This repository showcases selected projects focused on market research, user behavior analysis, and data organization across digital and social contexts.
+The work combines data analysis, research design, and structured data processing to generate insights that can support business, marketing, and strategic decisions.
 
 ## Repository Structure
 - Project1: High-school-students-and-university-choice  
   Mixed-methods research on educational decision-making.
+  Focus on how individuals evaluate options and make complex choices.
 
 - Project2: Household-projections-in-Italy-2030  
   Quantitative demographic analysis and projections.
+  Focus on data interpretation, trend analysis, and structured outputs.
 
 - Project3: Psychosocial-research  
   Qualitative research on volunteer training and service identity in an emotional support program.
+  Focus on
 
 - Appendices  
   Methodological documentation and detailed outputs.
