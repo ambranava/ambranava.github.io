@@ -11,7 +11,7 @@ This repository contains selected academic and applied research projects develop
   Quantitative demographic analysis and projections.
 
 - Project3: Psychosocial-research  
-  Applied data cleaning and exploratory analysis using Python.
+  Qualitative research on .
 
 - Appendices  
   Methodological documentation and detailed outputs.
