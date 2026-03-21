@@ -12,9 +12,9 @@ This project explores how behavioural patterns in Clash of Clans translate into 
 ## Project structure
 
 The project is structured around three key behavioural areas:
-- **Clan dynamics*: social systems, retention and organic growth;
-- **Upgrade systems*: player decision-making, segmentation and monetization;
-- **Risk and failure*: player response to uncertainty, churn and re-engagement.
+- *Clan dynamics*: social systems, retention and organic growth;
+- *Upgrade systems*: player decision-making, segmentation and monetization;
+- *Risk and failure*: player response to uncertainty, churn and re-engagement.
 
 Each section explores behavioural drivers and translates them into marketing and live-ops implications.
 
