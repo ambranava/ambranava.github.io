@@ -18,3 +18,19 @@ The project is structured around three key behavioural areas:
 
 Each section explores behavioural drivers and translates them into marketing and live-ops implications.
 
+## Key insight
+
+- Social dynamics act as a retention multiplier, but can also increase churn under negative conditions.
+- Player decision-making reveals clear behavioural segments, enabling targeted marketing strategies.
+- Failure and risk are critical churn triggers, but also key opportunities for re-engagement.
+- Player behaviour can be translated into actionable marketing interventions, including segmentation, campaign timing and messaging.
+
+## Marketing applications
+
+
+
+
+
+
+
+
