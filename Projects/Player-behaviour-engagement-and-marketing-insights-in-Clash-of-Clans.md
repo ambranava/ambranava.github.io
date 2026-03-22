@@ -27,6 +27,24 @@ Each section explores behavioural drivers and translates them into marketing and
 
 ## Marketing applications
 
+### Player Segmentation
+Behavioural patterns (social, strategic, risk-based) enable more precise user segmentation.
+
+### Campaign Strategy
+Campaigns can be aligned with player behaviour, including:
+- social-driven campaigns
+- progression-based messaging
+- event-based activations
+
+### Re-engagement
+Failure moments and negative events represent key opportunities for targeted re-engagement campaigns.
+
+### Creative Strategy
+Messaging can be tailored to different player motivations:
+- challenge & mastery
+- safety & progression
+- social belonging
+
 
 
 
