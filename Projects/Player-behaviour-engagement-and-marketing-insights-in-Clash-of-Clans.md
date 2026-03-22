@@ -47,9 +47,9 @@ Messaging can be tailored to different player motivations:
 
 ## Explore the Project
 
-- [Clan Dynamics →](clan-dynamics.md)
-- [Upgrade Systems →](upgrade-systems.md) 
-- [Risk & Failure →](risk-failure.md)  
+- [Clan Dynamics](clan-dynamics.md)
+- [Upgrade Systems](upgrade-systems.md) 
+- [Risk & Failure](risk-failure.md)  
 
 ## About
 
