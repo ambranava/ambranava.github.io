@@ -45,10 +45,13 @@ Messaging can be tailored to different player motivations:
 - safety & progression
 - social belonging
 
+## Explore the Project
 
+- [Clan Dynamics →](clan-dynamics.md)
+- [Upgrade Systems →](upgrade-systems.md) 
+- [Risk & Failure →](risk-failure.md)  
 
+## About
 
-
-
-
-
+This project was developed independently as part of a portfolio focused on player behaviour, marketing and live game systems.
+Active player of Clash of Clans and Clash Royale for 10+ years, with a strong interest in how player insights can drive marketing and engagement strategies.
