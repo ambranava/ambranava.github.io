@@ -1,4 +1,4 @@
-# Upgrade Systems: Player Decision-Making, Segmentation and Monetization in Clash of Clans
+# Upgrade systems: player decision-making, segmentation and monetization in Clash of Clans
 
 ---
 
