@@ -19,3 +19,19 @@ However, these same systems can also create friction and increase churn when neg
 ## Social Systems Analysis
 
 Clan-related mechanics influence player behaviour in different ways:
+
+- *Clan entry* (open vs invite-based)
+  Impacts onboarding experience and early player retention
+
+- *Clan wars*
+  Introduce competition, social pressure and risk of public failure
+
+- *Collaboration systems* (donations, support)
+  Reinforce daily engagement and repeated interactions
+
+- *Social pressure and accountability*
+  Increase commitment, but can also accelerate churn under negative conditions
+
+---
+
+
