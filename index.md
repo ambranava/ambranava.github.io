@@ -23,5 +23,9 @@ I am currently seeking a research position, where I can contribute to ongoing re
 
   Qualitative research project supporting communication strategy development.
 
+- [Player behaviour, engagement and marketing insights in Clash of Clans](Projects/Player-behaviour-engagement-and-marketing-insights-in-Clash-of-Clans.md)
+
+  Independent research proposal exploring player behaviour in Clash of Clans. It is not an official study, but it demonstrates how behavioural insights can be        translated into marketing and engagement strategies.
+
 ## CV
 - [View full CV](cv.md)
