@@ -66,7 +66,7 @@ Messaging can be tailored to different player motivations:
 
 ## Explore the Project
 
-- [Clan Dynamics](clan-dynamics.md)  
+- [Clan Dynamics](ambranava.github.io/Projects/Appendices/Player-behaviour-engagement-and-marketing-insights-in-Clash-od-Clans/Clan-dynamics.md)  
 - [Upgrade Systems](upgrade-systems.md)  
 - [Risk & Failure](risk-failure.md)  
 
