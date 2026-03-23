@@ -1,4 +1,4 @@
-# Risk & Failure: Player Decision-Making Under Uncertainty and Impact on Engagement in Clash of Clans
+# Risk and failure: player decision-making under uncertainty and impact on engagement in Clash of Clans
 
 ---
 
