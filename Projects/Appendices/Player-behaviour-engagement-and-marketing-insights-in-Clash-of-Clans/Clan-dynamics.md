@@ -1,4 +1,4 @@
-# Clan dynamics: : social systems, retention and organic growth in Clash of Clans
+# Clan dynamics: social systems, retention and organic growth in Clash of Clans
 
 ---
 
