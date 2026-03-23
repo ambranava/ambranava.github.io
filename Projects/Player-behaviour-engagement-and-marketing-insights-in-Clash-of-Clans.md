@@ -1,8 +1,5 @@
 # Player behaviour, engagement and marketing insights in Clash of Clans
 
-A research project exploring how player behaviour in live mobile games can inform marketing, retention and re-engagement strategies.
-Designed as a practical exploration of how player insights can be translated into real marketing decisions in live games.
-
 ---
 
 ## Context
