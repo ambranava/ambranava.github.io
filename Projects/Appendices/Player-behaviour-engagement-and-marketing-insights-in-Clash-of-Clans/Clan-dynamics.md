@@ -6,4 +6,16 @@
 
 This section explores how social dynamics within clans influence player retention, engagement, and organic growth in live mobile games, and how these systems can be leveraged to improve marketing performance and player lifecycle outcomes.
 
+---
 
+## Context
+
+Clan systems represent one of the strongest engagement drivers in live games.
+They introduce collaboration, competition, and social accountability, transforming individual gameplay into a shared experience.
+However, these same systems can also create friction and increase churn when negative experiences occur.
+
+---
+
+## Social Systems Analysis
+
+Clan-related mechanics influence player behaviour in different ways:
