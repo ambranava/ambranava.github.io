@@ -1,6 +1,6 @@
 Portfolio website: https://ambranava.github.io/
 
-# Market research and data analysis portfolio
+# Research and data analysis portfolio
 This repository showcases selected projects focused on market research, user behavior analysis, and data organization across digital and social contexts.
 The work combines data analysis, research design, and structured data processing to generate insights that can support business, marketing, and strategic decisions.
 
