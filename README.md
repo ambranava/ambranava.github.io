@@ -17,6 +17,9 @@ The work combines data analysis, research design, and structured data processing
   Qualitative research on volunteer training and service identity in an emotional support program.
   Focus on identifying the values, image traits, and symbolic constructs associated with the service, in order to provide evidence-based guidance for future         outreach and engagement efforts.
 
+- Project4: Player-Behaviour-engagement-and-marketing-insights-in-Clash-of-Clans
+  This project is an independent research proposal exploring player behaviour in Clash of Clans. It is not an official study, but it demonstrates how behavioural    insights can be translated into marketing and engagement strategies.
+
 - Appendices  
   Methodological documentation and detailed outputs.
 
