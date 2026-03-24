@@ -1,6 +1,7 @@
 Portfolio website: https://ambranava.github.io/
 
 # Research and data analysis portfolio
+
 This repository showcases selected projects focused on market research, user behavior analysis, and data organization across digital and social contexts.
 The work combines data analysis, research design, and structured data processing to generate insights that can support business, marketing, and strategic decisions.
 
@@ -30,6 +31,7 @@ The work combines data analysis, research design, and structured data processing
   Methodological documentation and detailed outputs.
 
 ## Key skills
+
 The projects included in this portfolio involve:
 - Survey and interview design
 - Market and user behavior analysis
@@ -40,6 +42,7 @@ The projects included in this portfolio involve:
 - Excel and data visualization
 
 ## Approach
+
 Across different contexts (education, demographics, and social research), the core focus remains the same:
 - understanding how people behave, decide, and interact with systems
 - transforming data into clear and actionable insights
