@@ -56,7 +56,7 @@ Campaigns can be aligned with player behaviour, including:
 ### Re-engagement
 Failure moments and negative events represent key opportunities for targeted re-engagement campaigns.
 
-### Creative Strategy
+### Creative strategy
 Messaging can be tailored to different player motivations:
 - Challenge and mastery  
 - Safe progression  
@@ -64,11 +64,11 @@ Messaging can be tailored to different player motivations:
 
 ---
 
-## Explore the Project
+## Explore the project
 
-- [Clan Dynamics](Appendices/Player-behaviour-engagement-and-marketing-insights-in-Clash-of-Clans/Clan-dynamics.md)  
-- [Upgrade Systems](Appendices/Player-behaviour-engagement-and-marketing-insights-in-Clash-of-Clans/Upgrade-systems.md)  
-- [Risk and Failure](Appendices/Player-behaviour-engagement-and-marketing-insights-in-Clash-of-Clans/Risk-failure.md)  
+- [Clan dynamics](Appendices/Player-behaviour-engagement-and-marketing-insights-in-Clash-of-Clans/Clan-dynamics.md)  
+- [Upgrade systems](Appendices/Player-behaviour-engagement-and-marketing-insights-in-Clash-of-Clans/Upgrade-systems.md)  
+- [Risk and failure](Appendices/Player-behaviour-engagement-and-marketing-insights-in-Clash-of-Clans/Risk-failure.md)  
 
 ---
 
