@@ -1,16 +1,24 @@
-# Ambra Nava - Research portfolio
+# Ambra Nava - Digital systems and e-commerce operations portfolio
 
 ## About
-I am a Bachelor’s graduate in Psychology with a focus on research methods and data analysis. 
-My academic interests lie in quantitative and qualitative research, with particular attention to study design, data collection, and the interpretation of empirical results.
+I hold a Bachelor’s degree in Psychology with a strong focus on research methods, data analysis, and structured problem-solving. My work combines quantitative and qualitative analytical approaches with an interest in understanding complex systems, user behavior, and data-driven processes in both academic and applied contexts.
 
-During my studies, I contributed to research activities involving surveys, interviews, and statistical analysis, and developed experience in managing data across different stages of the research process. 
-I am familiar with both quantitative and qualitative methodologies, including survey research, interview-based studies, and thematic analysis.
+During my studies, I developed experience in designing research studies, collecting and analyzing data, and interpreting results across different domains, including surveys, interviews, and statistical analysis. I have worked with both structured and unstructured data, and I am familiar with the full workflow from data collection to analysis and reporting.
 
-I have worked with tools such as Python, Stata, R, SPSS, and Excel to support data cleaning, exploratory analysis, and reporting. 
-I am currently seeking a research position, where I can contribute to ongoing research projects and further develop my methodological skills.
+I have technical experience with tools such as Python, R, Stata, SPSS, and Excel, which I have used for data cleaning, exploratory analysis, and structured reporting.
 
-## Research Projects
+Alongside my research background, I have developed growing experience and interest in ecommerce systems, product data structures, and digital operations. My current focus is on applying analytical and systems-oriented thinking to ecommerce environments, particularly in areas such as catalog structure, data quality, and workflow optimization.
+
+## Projects
+
+### [Research projects]
+
+Quantitative and qualitative research projects focused on behavioral analysis, demographic studies, and structured investigation of decision-making processes.
+
+### [E-commerce projects]
+
+Applied projects focused on e-commerce systems, product data management, catalog structure, user navigation, and workflow optimization.
+
 - [High school students and university choice](Projects/High-school-students-and-university-choice.md)
 
   Mixed-methods research combining qualitative interviews and quantitative surveys.
