@@ -19,21 +19,5 @@ Quantitative and qualitative research projects focused on behavioral analysis, d
 
 Applied projects focused on e-commerce systems, product data management, catalog structure, user navigation, and workflow optimization.
 
-- [High school students and university choice](Projects/High-school-students-and-university-choice.md)
-
-  Mixed-methods research combining qualitative interviews and quantitative surveys.
-  
-- [Households projections to 2030 in Italy](Projects/Households-projections-in-Italy-2030.md)
-
-  Quantitative demographic analysis focusing on household composition and population ageing.
-  
-- [Psychosocial research on volunteer training and service identity in an emotional support program](Projects/Psychosocial-research.md)
-
-  Qualitative research project supporting communication strategy development.
-
-- [Player behaviour, engagement and marketing insights in Clash of Clans](Projects/Player-behaviour-engagement-and-marketing-insights-in-Clash-of-Clans.md)
-
-  Independent research proposal exploring player behaviour in Clash of Clans. It is not an official study, but it demonstrates how behavioural insights can be        translated into marketing and engagement strategies.
-
 ## CV
 - [View full CV](cv.md)
