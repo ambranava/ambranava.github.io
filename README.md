@@ -1,50 +1,41 @@
 Portfolio website: https://ambranava.github.io/
 
-# Research and data analysis portfolio
+# Digital systems and e-commerce operations portfolio
 
-This repository showcases selected projects focused on market research, user behavior analysis, and data organization across digital and social contexts.
-The work combines data analysis, research design, and structured data processing to generate insights that can support business, marketing, and strategic decisions.
+This repository presents selected projects across two complementary areas: research-based analysis and e-commerce systems optimization.
+
+The work focuses on understanding and improving digital systems through structured analysis of user behavior, data, and operational workflows. Across both research and ecommerce contexts, the core approach remains consistent: defining problems clearly, applying structured methodologies, and translating findings into actionable insights for system and process improvement.
 
 ## Repository structure
-- Project1: High-school-students-and-university-choice  
 
-  Mixed-methods research on educational decision-making.
-  Focus on how individuals evaluate options and make complex choices.
+### Research Projects
 
-- Project2: Household-projections-in-Italy-2030  
+This section includes research-oriented projects focused on behavioral analysis, demographic trends, and structured investigation of decision-making processes in different contexts.
 
-  Quantitative demographic analysis and projections.
-  Focus on data interpretation, trend analysis, and structured outputs.
+The projects demonstrate the ability to:
+- define and structure complex analytical problems
+- design appropriate research methodologies
+- collect, organize, and interpret qualitative and quantitative data
+- extract insights from multi-source information
+- communicate findings in a structured and decision-oriented format
 
-- Project3: Psychosocial-research  
+### E-commerce projects
 
-  Qualitative research on volunteer training and service identity in an emotional support program.
-  Focus on identifying the values, image traits, and symbolic constructs associated with the service, in order to provide evidence-based guidance for future         outreach and engagement efforts.
+This section includes applied projects focused on ecommerce systems, product data structures, catalog organization, user navigation, and workflow optimization.
 
-- Project4: Player-Behaviour-engagement-and-marketing-insights-in-Clash-of-Clans
+The projects explore how ecommerce environments can be improved through:
+- product data structuring and taxonomy design
+- catalog organization and information architecture
+- user navigation and discovery optimization
+- data analysis for performance and behavioral insights
+- workflow and process improvement across ecommerce systems
+  
+### Appendices  
 
-  This project is an independent research proposal exploring player behaviour in Clash of Clans.
-  It is not an official study, but it demonstrates how behavioural    insights can be translated into marketing and engagement strategies.
-
-- Appendices  
-
-  Methodological documentation and detailed outputs.
-
-## Key skills
-
-The projects included in this portfolio involve:
-- Survey and interview design
-- Market and user behavior analysis
-- Data collection and structuring
-- Data cleaning and organization
-- Quantitative and qualitative research
-- Insight generation from complex data
-- Excel and data visualization
+Methodological documentation and detailed outputs.
 
 ## Approach
 
-Across different contexts (education, demographics, and social research), the core focus remains the same:
-- understanding how people behave, decide, and interact with systems
-- transforming data into clear and actionable insights
+The common thread across all projects is a systems-oriented approach to digital environments.
 
-This portfolio reflects applied experience in research and data analysis, with a focus on practical methodologies that can be adapted to business, marketing, and digital environments.
+Rather than focusing on isolated outputs, the work emphasizes understanding how systems function end-to-end, from data structures and user behavior to operational workflows, and identifying opportunities for improvement through clearer processes, better data organization, and more effective system design.
