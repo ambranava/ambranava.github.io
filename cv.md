@@ -5,71 +5,87 @@ Email: ambra.nava91@gmail.com
 LinkedIn: [www.linkedin.com/in/ambranava](https://linkedin.com/in/ambranava)  
 Portfolio: Portfolio: [https://ambranava.github.io](https://ambranava.github.io)
 
-## Education
-**Bachelor’s Degree in Psychology**  
-Università Cattolica del Sacro Cuore, Italy  
-*Specialization: Research Intervention for Organisations and Marketing*  
-*Focus: research design, surveys, interviews, and data analysis*  
-*Thesis: Creativity and Scientific Problem Solving*  
-*Relevant coursework: Interview & Survey Methods, Psychometry, Psychosocial Research*
+## PROFESSIONAL SUMMARY
 
-## Professional Certifications and Trainings
-- Excel for business (Specialization) – Macquarie University, Coursera
-  *Skills gained: advanced Excel, data cleaning, reporting, dashboard creation*
-- Methods and statistics in social sciences (Specialization) – University of Amsterdam, Coursera
-  *Skills gained: survey design, statistical analysis, psychometrics, research methodology*
-- [Google data analysis with Python - Google, Coursera](https://coursera.org/share/e02ef23f660eb561b862031ae6ca832f)
-  *Skills gained: Python for data analysis, data visualization, data management*
-- [Elements of AI: Introduction to AI - University of Helsinki](https://certificates.mooc.fi/validate/c5t6nvuu7q5)
-- *Skills gained: Basic knowledge of AI and its applications, AI theory*
+E-commerce operations and product data specialist with hands-on experience in catalog systems, product data structuring, and multi-platform ecommerce environments (Shopify, Wix, Amazon).
+Focus on improving product data quality, catalog architecture, and information systems to enhance discoverability, navigation, and overall user experience in high-SKU ecommerce environments.
+Experience in product taxonomy design, variant and attribute structuring, feed management, and multi-channel catalog alignment.
+Currently expanding expertise in ecommerce analytics (GA4), workflow automation, and scalable e-commerce systems design in international contexts.
 
-## Technical and Analytical Skills
-**Data Analysis:** Excel (advanced), SPSS (intermediate), Python (intermediate)  
-**Statistical Software:** Stata (basic), R (basic)  
-**Research Methods:** survey design, interview methods, psychometrics  
-**Data Management:** data cleaning, validation, documentation  
+## CORE SKILLS
 
-**Digital Tools:**  
-MS Teams (online meetings and collaboration), SharePoint (collaborative document management), Google Workspace  
+### E-commerce systems and optimization
 
-## Professional Experience
-**Data analyst and data manager – Freelance (via Fiverr)**  
-- Data management and cleaning for applied research and e-commerce datasets  
-- Handled large datasets under strict deadlines with high accuracy  
-- Data matching, integration, and validation across multiple sources  
-- Prepared structured datasets for analysis and reporting  
-- Examples: matched/imported ~250 products into an e-commerce platform within 15 days; completed full data entry of 500 products within 5 days; entered over 1,600 records into Excel within 4 days  
-- Tools: Excel (advanced), Word, Google Workspace, SPSS, Wix 
-- [Assist-you-with-data-entry-and-data-analysis](https://www.fiverr.com/ambra_n/assist-you-with-data-entry-and-data-analysis)
-- [Help-you-with-the-italian-language](https://www.fiverr.com/ambra_n/help-you-with-the-italian-language)
+- Product discoverability and navigation systems
+- Category architecture and filter structuring
+- Catalog usability and UX-oriented product organization
+- Rule-based product recommendation logic
+- Customer journey support via catalog structure
 
-**Event Assistant – CSV Insubria / Como Book Fair (Volunteer)**  
-- Supported operational and logistical activities during public and cultural events  
-- Coordinated setup/dismantling of stands and presentation areas  
-- Welcomed visitors and assisted speakers and staff  
-- Contributed to smooth event execution through teamwork and communication  
-[Como book fair](https://fieralibrocomo.it/)  
+### Product data and catalog operations
 
-**Statistical Data Collector – ISTAT (Italian National Institute of Statistics)**  
-- Collected and managed large-scale census data following national standards  
-- Implemented standardized data collection protocols with structured questionnaires  
-- Maintained documentation and supported reporting activities  
-- Managed sensitive personal data in compliance with confidentiality standards  
+- Product data structuring, normalization, and taxonomy design
+- High-volume catalog management (1,000+ SKUs environments)
+- Variant and attribute standardization (size, color, product families)
+- Product data quality control and validation workflows
+- Multi-channel catalog consistency (Shopify, Wix, Amazon)
 
-**Research Assistant – Volunteer-Based Emotional Support Service (T.A.I.)**  
-- Supported psychosocial research activities for a communication project  
-- Designed surveys and moderated interviews and focus group sessions  
-- Analysed qualitative and quantitative data and prepared structured reports  
-- Presented findings to stakeholders to support evidence-based decision-making  
-- [Link to project on portfolio](Projects/Psychosocial-research.md)
+### Feed and marketplace operations
 
-## Skills Summary
-- Project coordination and team collaboration  
-- Applied data analysis and visualization  
-- Qualitative and quantitative research methods  
-- Reporting and presentation of findings  
+- Product feed preparation and optimization (Google Shopping, Amazon)
+- Data mapping and structuring for external platforms
+- Cross-platform catalog synchronization
+- Product information consistency across channels
+
+### Tools
+
+Shopify | Wix CMS | Amazon Vendor Central | Excel (advanced data handling) | Google Analytics (basic–intermediate)
+
+### Operations and collaboration
+
+- Workflow coordination and process improvement
+- Cross-functional collaboration in fast-paced environments
+- Operational support for ecommerce teams
+- Stakeholder communication in production environments 
+
+## PROFESSIONAL EXPERIENCE
+
+**E-commerce product data and catalog operations**  
+*Elis S.r.l., Beesique, other project-based clients | Mar 2023 – Jul 2025*
+
+- Managed and structured product catalogs to improve discoverability, navigation, and usability across ecommerce platforms  
+- Designed and optimized product attributes to support filtering systems, categorization logic, and user journey efficiency  
+- Executed high-volume product uploads and updates while ensuring data consistency and structural integrity  
+- Built and maintained structured product datasets (1,600+ records), improving catalog usability and data quality
+- Delivered product setups (250+) and large-scale bulk uploads (500+) under operational deadlines  
+- Ensured multi-channel catalog consistency across Shopify, Wix, and marketplace environments
+- Contributed to improving e-commerce user experience through structured product data and taxonomy alignment
+- Collaborated with cross-functional teams to support catalog optimization and operational workflows
+
+**Data Collection – National Census**  
+*ISTAT – Italian National Institute of Statistics | Sep 2018 – Jun 2019*
+
+- Conducted structured data collection through surveys and interviews 
+- Ensured accuracy, consistency, and compliance with standardized protocols  
+- Worked with structured datasets and reporting processes in regulated environment   
+
+**Research project - Communication strategy**  
+*Telefono Amico Italia (T.A.I.) | Jan 2014 – Jun 2014*
+
+- Conducted qualitative research (interviews, focus groups)  
+- Analyzed insights to identify behavioral themes and perception patterns
+- Translated findings into structured communication guidelines and strategic recommendations  
+
+**Event and operational support (Volunteer)**  
+*CSV Insubria / Como Book Fair | Aug 2022 – Sep 2023*
+
+- Supported coordination and on-site operations in fast-paced event environments 
+- Assisted with organizational workflows and operational logistics 
+
+## EDUCATION
+
+**Bachelor’s Degree in Psychology (Organisations & Marketing)**
+*Università Cattolica del Sacro Cuore, Milan | 2011 – 2014*
 
 ## Languages
-- Italian – Native  
-- English – Full professional proficiency  
-- Norwegian – Basic
+- Italian – Native | English – Full professional proficiency | Dutch - Intermediate | Norwegian - Basic | German - Basic
