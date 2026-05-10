@@ -4,97 +4,95 @@
 
 ## Objective
 
-This section explores how players allocate resources between offensive, defensive, and economic upgrades and how these decisions impact engagement, retention and monetization.
-The goal is to translate behavioural insights into actionable marketing and live-ops strategies.
+This section analyses how players allocate resources across offensive, defensive, and economic upgrades, and how these decisions influence engagement patterns, retention, and monetization outcomes.
+The objective is to translate behavioural decision-making into actionable implications for marketing, segmentation, and live-ops strategy.
 
 ---
 
 ## Context
 
-Upgrade systems are a core progression mechanic in live games.
-They shape player strategy, create behavioural segmentation, and influence in-game spending patterns.
+Upgrade systems are a core progression mechanic in live service games. 
+They structure player decision-making, define behavioural segmentation, and directly influence in-game spending behaviour.
 
-Understanding how players make trade-offs allows marketing teams to design campaigns, promotions and offers that resonate with different playstyles.
+Understanding how players navigate trade-offs between upgrade paths enables more precise targeting of campaigns, offers, and progression-based incentives.
 
 ---
 
-## Behavioural Segmentation
+## Behavioural segmentation
 
-Players can be grouped based on their upgrade priorities:
+Players can be segmented based on dominant upgrade priorities:
 
-- *Aggressive Players*
-  - Focus on offensive upgrades
-  - High activity and attack frequency
-  - Potential for higher in-game spending
+- **Aggressive players**
+  - Prioritize offensive upgrades
+  - High engagement intensity and frequent attack behaviour
+  - Higher potential monetization through acceleration mechanics
  
-- *Defensive Players*
-  - Focus on defensive upgrades
-  - Risk-averse, stable engagement
-  - Slower progression, lower short-term spending
+- **Defensive players**
+  - Prioritize defensive upgrades
+  - More risk-averse and stability-oriented engagement patterns
+  - Slower progression and lower short-term monetization intensity
  
-- *Strategic Planners*
-  - Focus on economic upgrades
-  - Long-term orientation
-  - High retention, moderate spending
+- **Strategic planners**
+  - Prioritize economic and long-term efficiency upgrades
+  - Higher retention stability
+  - Moderate but sustained engagement and spending patterns
  
 ---
 
-## Key Metrics
+## Key metrics
 
-- Upgrade distribution (offense vs defense vs economy)
+- Distribution of upgrade allocation (offense / defense / economy)
 - Progression speed
 - Resource accumulation rate
 - Attack frequency
 - Win/loss ratio
 - Retention (D7, D30)
-- In-game purchase frequency
+- Purchase frequency and monetization events
 
 ---
 
-## Key Insights
+## Key insights
 
-- Player choices reveal distinct behavioural segments, each with different engagement and monetization patterns
-- “Dominant strategies” can reduce diversity of play; balancing upgrades encourages experimentation
-- Player segmentation enables personalized offers and messaging
-- Understanding progression trade-offs informs campaign timing and bundle design
-
----
-
-## Marketing Implications
-
-### Product Strategy
-- Balance upgrade paths to prevent dominant strategies
-- Offer diverse progression paths while keeping outcomes comparable
-- Provide clear feedback on upgrade impact
-
-### Monetization
-- Design segment-specific bundles and offers
-- Personalize promotions based on playstyle and progression stage
-
-### Campaign Strategy
-- Tailor messaging to player segments:
-  - *Aggressive*: challenge and mastery
-  - *Defensive*: safe progression
-  - *Strategic*: long-term growth
-- Use upgrade milestones to trigger campaigns and events
+- Upgrade decisions reflect stable behavioural segments with distinct engagement and monetization profiles
+- Dominant upgrade strategies can reduce behavioural diversity, limiting experimentation and long-term engagement variability
+- Segmentation based on progression priorities enables more precise targeting of offers and lifecycle interventions
+- Upgrade timing and resource constraints are key drivers of conversion probability and campaign effectiveness
 
 ---
 
-## Competitive Benchmark
+## Marketing implications
 
-Comparison with:
-- Rise of Kingdoms
-- Clash Royale
+### Product and progression design
+- Maintain balance across upgrade paths to avoid dominant meta strategies
+- Ensure multiple viable progression routes with comparable outcomes
+- Provide clear feedback loops on upgrade impact to support decision-making
 
-Focus:
-- How different upgrade systems shape player behaviour
-- Influence on engagement, retention, and monetization
-- Opportunities for segmentation-driven marketing
+### Monetization strategy
+- Design segment-specific bundles aligned with progression behaviour
+- Adapt pricing and offers based on player stage and upgrade profile
+- Personalize promotions using behavioural segmentation signals
+
+### Campaign strategy
+- Tailor messaging based on player archetypes:
+  - *Aggressive*: challenge, speed, mastery
+  - *Defensive*: safety, stability, risk reduction
+  - *Strategic*: long-term optimization, efficiency
+- Use upgrade milestones and resource bottlenecks as triggers for targeted campaigns and live-ops events.
 
 ---
 
-## Opportunities for Growth
+## Competitive benchmark
 
-- Leverage behavioural segmentation for personalized campaigns
-- Create bundle offers aligned with player strategies
-- Use upgrade decision insights to inform live-ops timing and messaging
+Reference comparison with Rise of Kingdoms and Clash Royale, focusing on:
+- structural differences in upgrade systems
+- impact on player segmentation and behavioural diversity
+- implications for retention and monetization strategies
+
+---
+
+## Opportunities for growth
+
+- Strengthen behavioural segmentation for more granular personalization
+- Develop bundle strategies aligned with progression archetypes
+- Use upgrade decision patterns to optimize campaign timing and lifecycle targeting
+- Integrate progression signals into live-ops decision frameworks
