@@ -1,39 +1,21 @@
 # Appendix A – Qualitative research design
 
 ## A.1 Research rationale
-The qualitative phase was designed to explore how upper secondary school students approach
-the transition from school to university, focusing on orientation processes, decision-making pathways,
-and perceptions of Università Cattolica del Sacro Cuore (hypothesized client).
+The qualitative phase was designed to explore how upper secondary school students approach the transition from school to university, with a focus on orientation processes, decision-making dynamics, and perceptions of Università Cattolica del Sacro Cuore (hypothesized client).
 
-The interview structure was organized around three main analytical dimensions.
+The interview structure was organized around three main analytical areas.
 
-The first dimension focused on **orientation experiences**.
-Participants were asked about their upper secondary school background
-(type of school, field of study, and geographical location),
-as well as the orientation activities provided by their school,
-including open days, information sessions, and testimonies by university students or faculty.
-The interviews explored the type of information received about the university system
-(faculties, universities, access requirements) and participants’ evaluation of the usefulness
-of school-based orientation.
-Personal orientation activities conducted independently by students were also investigated.
+The first area focused on orientation experiences. 
+Participants were asked about their educational background (type of school, field of study, and geographical context), as well as the orientation activities provided by their schools, including open days, informational sessions, and presentations by university students or faculty members. 
+The interviews explored the type of information participants received about the university system and their evaluation of the usefulness of school-based orientation activities. Independently conducted orientation and information-seeking behaviors were also examined.
 
-The second dimension addressed the **university choice process**.
-Participants were asked about their choice of faculty and university,
-distinguishing between secure, tentative, and undecided choices,
-and the motivations underlying each condition.
-Key decision factors were explored, including prestige, availability of the chosen faculty,
-teaching staff, access modalities, costs, logistics, and perceived professional outcomes.
-The role of external influences (parents, peers, teachers) and the timing of the decision-making
-process were also examined.
+The second area focused on the university choice process. 
+Participants discussed their faculty and university preferences, distinguishing between confirmed, tentative, and undecided choices, together with the motivations associated with each stage of decision-making. 
+The interviews explored factors influencing university selection, including prestige, program availability, teaching staff, admission requirements, costs, logistics, and perceived career opportunities. External influences such as parents, peers, and teachers, as well as the timing of decision-making, were also analyzed.
 
-The third dimension focused on the **image of Università Cattolica del Sacro Cuore**.
-Interviews explored students’ awareness of the university, communication and promotional channels
-(open days, web presence, public events, school-based orientation),
-and perceived clarity of information regarding courses, services, costs, and access requirements.
-Perceptions of service quality, logistics, financial aspects, and career prospects were investigated,
-along with opinions derived from indirect experiences.
-Finally, participants were invited to evaluate the effectiveness of the university’s communication
-and suggest possible improvements to better support university choice.
+The third area focused on the perceived image of Università Cattolica del Sacro Cuore. 
+Interviews explored awareness of the university, communication and promotional channels (open days, website, public events, and school-based orientation activities), and the perceived clarity of information related to courses, services, costs, and admission procedures. Participants were also asked about perceptions of service quality, accessibility, financial aspects, and career prospects, including opinions derived from indirect experiences. 
+Finally, the interviews explored the perceived effectiveness of the university’s communication and possible areas for improvement in supporting prospective students during the orientation process.
 
 
 ## A.2 Semi-structured interview guide
@@ -186,6 +168,5 @@ Thank you for your time and collaboration.
 
 ## A.3 Notes on implementation
 This qualitative phase was conducted through individual semi-structured interviews.
-Interviews were audio-recorded with participants’ consent and anonymized.
-The original materials were developed and administered in Italian, as the research
-was conducted within the Italian educational context.
+All interviews were audio-recorded with participants’ consent and anonymized during the analysis process.
+The original interview materials were developed and administered in Italian, as the research was conducted within the Italian educational context.
