@@ -43,7 +43,7 @@ Quantitative outputs are presented separately for each region, while comparative
 
 Methodological assumptions and projection schemes are documented in the appendix:
 
-**[Appendix A - Methodology](Research-projects/Appendices/Households-projections-in-Italy-2030/Appendix-a-methodology.md)**
+**[Appendix A - Methodology](Appendices/Household-projections-in-Italy-2030/Appendix-a-methodology.md)**
 
 ---
 
@@ -54,9 +54,9 @@ Methodological assumptions and projection schemes are documented in the appendix
 
 Detailed quantitative results and figures are available in Appendix B, while analytical conclusions are presented in Appendix C.
 
-**[Appendix B – Quantitative results and projections](Appendices/Households-projections-in-Italy-2030/Appendix-b-quantitative-outputs.md)**
+**[Appendix B – Quantitative results and projections](Appendices/Household-projections-in-Italy-2030/Appendix-b-quantitative-outputs.md)**
 
-**[Appendix C - Interpretation and conclusions](Appendices/Households-projections-in-Italy-2030/Appendix-c-interpretation-and-conclusions.md)**
+**[Appendix C - Interpretation and conclusions](Appendices/Household-projections-in-Italy-2030/Appendix-c-interpretation-and-conclusions.md)**
 
 > Note: figures and tables are presented in Italian, as the original research was conducted within an Italian academic context.
 
