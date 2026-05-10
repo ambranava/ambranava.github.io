@@ -2,57 +2,47 @@
 
 ## Purpose of the questionnaire
 This questionnaire was designed to investigate:
-- the university orientation received during upper secondary school,
-- the students’ decision-making process regarding higher education,
-- perceptions, knowledge, and image of Università Cattolica del Sacro Cuore.
+- university orientation activities experienced during upper secondary school
+- students’ decision-making processes related to higher education choices
+- perceptions, awareness, and image of Università Cattolica del Sacro Cuore
 
-The instrument was developed following a qualitative exploratory phase and
-was administered to upper secondary school students in Lombardy.
+The instrument was developed following an initial qualitative exploratory phase and administered to upper secondary school students in Lombardy.
 
 ---
 
 ## Conceptual rationale and structure
-The questionnaire followed a structured and hierarchical design, articulated into
-three main sections corresponding to the core analytical dimensions:
-
+The questionnaire followed a structured design organized around three main analytical areas:
 1. Orientation
 2. University choice process
 3. Image of Università Cattolica del Sacro Cuore
 
-Each section included both filter questions and Likert-type items in order to
-capture differences between students with a defined choice and those still undecided.
+Each section included both filter questions and Likert-scale items to differentiate between students with defined university plans and those still undecided.
 
 ---
 
 ## Measurement strategy
-Across different orientation modalities (school-based activities, web, open days,
-public events, informal sources), the same informational dimensions were assessed:
-- type of universities,
-- location,
-- degree structure,
-- access modalities,
-- study plans.
+Across different orientation channels (school-based activities, web research, open days, public events, and informal sources), the same informational dimensions were evaluated:
+- type of universities
+- location
+- degree structure
+- access modalities
+- study plans
 
-This approach allowed direct comparison between orientation channels during analysis.
+This structure enabled direct comparison between orientation channels during the analysis phase.
 
 ---
 
 ## Scales and item types
-Most items were measured using 5-point Likert scales ranging from
-1 (“not at all”) to 5 (“very much”), with additional “I don’t know” options
-for perception-based items.
+Most items were measured using 5-point Likert scales ranging from 1 (“not at all”) to 5 (“very much”), with additional “I don’t know” options included for perception-based questions.
 
-Both closed-ended and open-ended questions were included to capture
-quantitative trends and contextual clarifications.
+Both closed-ended and open-ended items were used to capture quantitative trends alongside contextual and qualitative clarifications.
 
 ---
 
 ## Notes on language and context
-The questionnaire was originally developed and administered in Italian,
-as the study was conducted within the Lombardy educational context.
+The questionnaire was originally developed and administered in Italian, as the study was conducted within the Lombardy educational context.
 
-All results and interpretations presented in this portfolio
-are summarized and discussed in English.
+All findings and interpretations presented in this portfolio are summarized and discussed in English.
 
 ---
 
