@@ -4,109 +4,104 @@
 
 ## Objective
 
-This section explores how social dynamics within clans influence player retention, engagement, and organic growth in live mobile games, and how these systems can be leveraged to improve marketing performance and player lifecycle outcomes.
+This section analyses how social dynamics within clans influence player retention, engagement, and organic growth in live mobile games, and how these systems can be leveraged to improve marketing performance and lifecycle outcomes.
 
 ---
 
 ## Context
 
-Clan systems represent one of the strongest engagement drivers in live games.
-They introduce collaboration, competition, and social accountability, transforming individual gameplay into a shared experience.
-However, these same systems can also create friction and increase churn when negative experiences occur.
+Clan systems represent one of the strongest engagement drivers in live service games. They introduce collaboration, competition, and social accountability, transforming individual gameplay into a shared experience.
+At the same time, these systems can also generate friction and contribute to churn when negative social experiences occur.
 
 ---
 
 ## Social systems analysis
 
-Clan-related mechanics influence player behaviour in different ways:
+Clan-related mechanics influence player behaviour through multiple mechanisms:
 
-- *Clan entry* (open vs invite-based)
-  Impacts onboarding experience and early player retention
+- **Clan entry** (open vs invite-based)
+  Shapes onboarding experience and early-stage retention dynamics
+  
+- **Clan wars**
+  Introduce competition, social pressure, and collective performance visibility
 
-- *Clan wars*
-  Introduce competition, social pressure and risk of public failure
+- **Collaboration systems** (donations, support)
+  Reinforce daily engagement and repeated interaction loops
 
-- *Collaboration systems* (donations, support)
-  Reinforce daily engagement and repeated interactions
-
-- *Social pressure and accountability*
-  Increase commitment, but can also accelerate churn under negative conditions
+- **Social pressure and accountability**
+  Increase commitment but can also accelerate churn under negative conditions
 
 ---
 
-## Behavioral Hypotheses
+## Behavioral hypotheses
 
 - Strong clan belonging increases long-term retention and player lifetime value
-- Clan-based interactions increase engagement frequency and daily activity
-- Social bonds encourage player invitations and organic user acquisition
-- Negative social experiences (e.g. failed clan wars) can increase churn risk
+- Clan-based interactions increase engagement frequency and session regularity
+- Social ties facilitate invitations and organic user acquisition
+- Negative social experiences (e.g. repeated failure in clan wars) increase churn probability
 
 ---
 
-## Key Metrics
+## Key metrics
 
 - Retention rate (D7, D30)
 - Daily active users (DAU)
 - Clan participation rate
 - Player invite rate
 - Session frequency
-- Churn after negative social events
+- Churn following negative social events
 
 ---
 
 ## Key insights
 
-Clan systems act as a retention multiplier, reinforcing engagement through social interaction.
+Clan systems function as a retention multiplier by reinforcing engagement through social structure and shared objectives.
 
-However, social dynamics can also become a churn driver, especially when:
-- players feel excluded
-- performance expectations are too high
-- repeated failures occur in a social context
+However, the same mechanisms can also act as churn drivers when:
+- players experience exclusion
+- performance expectations are perceived as too high
+- repeated failures occur in a socially visible context
 
-Balancing these dynamics is critical for long-term engagement.
+The balance between belonging and pressure is therefore a critical determinant of long-term engagement stability.
 
 ---
 
-## Marketing Implications
+## Marketing implications
 
-### Social-Driven User Acquisition
-- Encourage friend invites through clan-based incentives
-- Promote “play together” messaging in campaigns
+### Social-driven acquisition
+- Encourage friend-based invites through clan incentives
+- Reinforce “play together” positioning in acquisition messaging
 
-### Onboarding Optimization
-- Encourage early clan joining through guided onboarding
-- Reduce friction in clan discovery
+### Onboarding optimization
+- Promote early clan adoption through guided onboarding flows
+- Reduce friction in clan discovery and entry mechanisms
 
-### Event-Based Campaigns
-- Align campaigns with clan events (e.g. wars, collaborative challenges)
-- Use social milestones as campaign triggers
+### Event-based campaigns
+- Align campaigns with clan-driven events (wars, challenges)
+- Use social milestones as activation triggers
 
-### Churn Prevention & Re-engagement
-- Target players after negative clan events
-- Develop messaging focused on recovery, support, and progression
+### Churn prevention and re-engagement
+- Target users after negative clan-related experiences
+- Use messaging focused on recovery, progression, and re-entry
 
-### Player Segmentation
-- Segment players based on clan participation (social vs solo players)
-- Adapt messaging and campaigns accordingly
+### Player segmentation
+- Segment users based on level of clan participation (social vs solo behaviour)
+- Adapt messaging, incentives, and campaign structure accordingly
 
 ---
 
 ## Competitive benchmark
 
-Comparison with:
-- Rise of Kingdoms
-- Clash Royale
-
-Focus:
-- How different games structure social systems
-- Impact on engagement, retention, and organic growth
-- Differences in collaboration vs competition dynamics 
+Comparative reference to games such as Rise of Kingdoms and Clash Royale, focusing on:
+- structuring of social systems
+- balance between cooperation and competition
+- impact on retention, engagement, and organic growth dynamics
 
 ---
 
-## Opportunities for Growth
+## Opportunities for growth
 
 - Strengthen clan identity to increase emotional attachment
-- Improve recovery mechanics after negative social events
-- Expand social features that encourage daily interaction
-- Leverage clan-based behavioural data for targeted marketing strategies
+- Improve recovery mechanisms after negative social outcomes
+- Expand social features that reinforce daily interaction loops
+- Leverage clan behavioural data for segmentation and targeting strategies
