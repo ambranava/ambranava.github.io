@@ -1,36 +1,36 @@
 # Appendix A – Methodology
 
 ## Research Objective
-The objective of this study was to project household structures and family composition in 2030 for two Italian regions with different demographic dynamics:
+The objective of this study was to project household structures and family composition in 2030 for two Italian regions with distinct demographic profiles:
 - Lombardy
 - Sardinia
 
 The analysis aimed to identify:
 - expected changes in household size and typology
 - regional differences in family structures
-- demographic trends relevant for social and policy planning
+- demographic trends relevant for social and policy interpretation
 
 ---
 
 ## Study design
-The project followed a quantitative demographic analysis based on:
+The project is based on a quantitative demographic analysis using:
 - secondary data sources
-- descriptive statistical analysis
+- descriptive statistical methods
 - demographic projection techniques
 
-The study was conducted as an academic research project, with a focus on methodological rigor and transparency rather than predictive certainty.
+The study was conducted in an academic context, with an emphasis on methodological transparency and structured analysis rather than precise predictive modeling.
 
 ---
 
 ## Data sources
 The analysis relied exclusively on official demographic statistics, including:
 - population and household data from national statistical sources (ISTAT)
-- historical time series on:
+- historical time series covering:
   - household composition
   - fertility and aging indicators
   - marital status and living arrangements
 
-All data referred to regional-level populations, ensuring internal consistency across indicators.
+All data refer to regional-level populations, ensuring consistency across indicators.
 
 ---
 
@@ -49,45 +49,45 @@ Key variables included:
   - age distribution
   - population aging trends
 
-These indicators were selected to capture both structural and social dimensions of family change.
+These indicators were selected to capture both structural and socio-demographic dimensions of household change.
 
 ---
 
 ## Analytical approach
-The methodological process followed four main steps:
+The methodological process followed four main stages:
 - **Exploratory analysis**: historical trends in household composition were analyzed separately for Lombardy and Sardinia
 - **Trend extrapolation**: observed demographic patterns were projected forward to 2030 using linear and proportional assumptions
 - **Comparative regional analysis**: results were compared across the two regions to highlight structural differences and divergent trajectories
 - **Interpretative synthesis**: quantitative outputs were interpreted in light of known demographic and socio-cultural dynamics
 
-The analysis focused on scenario-based projections, not on precise population forecasting.
+The analysis is based on scenario construction rather than deterministic forecasting.
 
 ---
 
 ## Assumptions
-The projections were based on the following assumptions:
+The projections are based on the following assumptions:
 - continuity of recent demographic trends
-- absence of major structural shocks (e.g. radical policy reforms or unexpected migration flows)
-- stability of regional socio-economic patterns
+- absence of major structural shocks (e.g., abrupt policy changes or exceptional migration shifts)
+- relative stability of regional socio-economic conditions
 
-These assumptions were explicitly adopted to ensure methodological clarity.
+These assumptions were defined to ensure methodological clarity and consistency.
 
 ---
 
 ## Limitations
-Several limitations should be acknowledged:
-- the projections are not predictive models, but trend-based scenarios
-- regional-level data do not capture intra-regional heterogeneity
-- the analysis does not incorporate behavioral or policy simulations
+The study presents several limitations:
+- projections are scenario-based rather than predictive models
+- regional aggregation masks intra-regional heterogeneity
+- behavioral and policy-driven dynamics are not explicitly modeled
 
-Results should therefore be interpreted as indicative patterns, not deterministic outcomes.
+Results should therefore be interpreted as indicative demographic scenarios rather than precise forecasts.
 
 ---
 
 ## Ethical and data considerations
-All data used were:
+All data used in this analysis are:
 - publicly available
-- aggregated
+- aggregated at regional level
 - fully anonymized
 
-No personal or sensitive information was processed.
+No personal or sensitive data were processed at any stage of the study.
