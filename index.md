@@ -11,7 +11,7 @@ Alongside my research background, I have developed growing experience and intere
 
 ## Projects
 
-### [Research projects](ambranava.github.io/Projects/Research-projects)
+### [Research projects](Research-projects)
 
 Quantitative and qualitative research projects focused on behavioral analysis, demographic studies, and structured investigation of decision-making processes.
 
