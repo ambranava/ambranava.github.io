@@ -4,49 +4,50 @@
 
 ## Objective
 
-This section explores how players perceive and respond to risk during gameplay, and how these decisions influence engagement, retention, and long-term player behaviour.  
-The goal is to translate risk-related behavioural insights into actionable marketing and live-ops strategies.
+This section analyses how players perceive and respond to risk during gameplay, and how these behaviours influence engagement, retention, and long-term player dynamics. 
+The objective is to translate risk-related behavioural patterns into actionable implications for marketing, live-ops, and lifecycle strategy.
 
 ---
 
 ## Context
 
-Uncertainty and failure are core components of live games:
-- Attacks: risk of losing resources
-- Clan wars: risk of public failure
-- Resource spending: risk of inefficient upgrades
-- Matchmaking: uncertainty about opponent strength
+Uncertainty and failure are structural components of live service gameplay systems.
 
-Understanding player risk perception helps design campaigns, messaging, and recovery mechanics that reduce churn and maintain engagement.
+Key risk-generating mechanics include:
+- attacks involving potential resource loss
+- clan wars with publicly visible outcomes
+- resource allocation decisions with long-term efficiency trade-offs
+- matchmaking variability and opponent uncertainty
+
+Understanding how players interpret and respond to these risks is essential for designing engagement systems, communication strategies, and churn mitigation mechanisms.
 
 ---
 
-## Risk Categories
-
-- *Performance risk*: failing an attack
-- *Resource Risk*: losing resources or inefficient investments
-- *Social Risk*: disappointing the clan or peers
-- *Strategic Risk*: making suboptimal long-term decisions
+## Risk categories
+Player risk exposure can be structured into four main dimensions:
+- **Performance risk**: failure in combat or attacks leading to immediate loss outcomes
+- **Resource Risk**: inefficient allocation or loss of in-game resources
+- **Social Risk**: exposure to peer evaluation within clan or group contexts
+- **Strategic Risk**: long-term suboptimal decisions affecting progression efficiency
 
 ---
 
 ## Behavioral Hypotheses
 
 - **Risk-Averse Players**
-  - Prefer safe attacks and conservative strategies
-  - Engagement is stable but progression slower
+  - Prefer stable, low-variance strategies
+  - Show consistent engagement but slower progression rates
  
 - **Risk-Seeking Players**
-  - Prefer aggressive attacks and fast experimentation
-  - Engagement is high, but behaviour is volatile
+  - Engage in high-variance, aggressive strategies
+  - Exhibit higher engagement intensity but more volatile behaviour patterns
  
 - **Socially-Driven Players**
-  - Heavily influenced by clan expectations
-  - Sensitive to failures in public contexts
+  - Highly sensitive to group expectations and social evaluation
+  - Risk effects are amplified in publicly visible contexts
  
 - **Loss Sensitivity**
-  - Failures can trigger churn or reduced activity
-  - Recovery mechanics can mitigate negative impact
+  - Negative outcomes can significantly reduce engagement or trigger churn, depending on recovery mechanisms
  
 ---
 
@@ -54,57 +55,53 @@ Understanding player risk perception helps design campaigns, messaging, and reco
 
 - Attack success rate
 - Attack frequency
-- Retry behaviour after failure
+- Post-failure retry rate
 - Session length
-- Drop-off after losses
-- Clan war participation
-- Retention after negative outcomes
+- Drop-off rate after losses
+- Clan war participation rate
+- Retention following negative outcomes
 
 ---
 
 ## Key Insights
 
-- Risk perception strongly affects player retention and engagement
-- Negative experiences can trigger churn, but also offer re-engagement opportunities
-- Social context amplifies risk effects, especially in collaborative or competitive events
-- Behavioural segmentation based on risk can inform **targeted campaigns and live-ops events**
+- Risk perception is a key driver of engagement stability and churn probability
+- Negative experiences can act as both churn triggers and re-engagement opportunities depending on system design
+- Social context amplifies perceived risk, particularly in competitive and collaborative environments
+- Risk-based segmentation provides a meaningful framework for targeting campaigns and live-ops interventions
 
 ---
 
-## Marketing Implications
+## Marketing implications
 
-### Product Strategy
-- Reduce negative impact of failure through feedback and recovery mechanics
-- Balance risk and reward in progression and event design
+### Product strategy
+- Implement recovery mechanisms to mitigate the impact of failure
+- Balance risk–reward structures across progression and event systems
 
-### Live-Ops
-- Design events with controlled risk to encourage experimentation
-- Reward participation even in partial failure scenarios
+### Live-ops design
+- Design controlled-risk environments that encourage experimentation
+- Reward participation even in partial success or failure scenarios to stabilize engagement
 
-### Campaign Strategy
-- Tailor messaging to behavioural segments:
-  - Risk-Seeking: “challenge & mastery”
-  - Risk-Averse: “safe progression”
-  - Socially-Driven: “belonging and reputation”
-
----
-
-## Competitive Benchmark
-
-Comparison with:
-- Rise of Kingdoms
-- Clash Royale 
-
-Focus:
-- How risk mechanics shape engagement and retention
-- Differences in risk-reward balance across live games
-- Opportunities for behaviour-driven campaigns
+### Campaign strategy
+Tailor messaging based on behavioural risk profiles:
+- **Risk-seeking**: challenge, mastery, progression acceleration
+- **Risk-averse**: safety, stability, predictable progression
+- **Socially-driven**: belonging, reputation, group success
 
 ---
 
-## Opportunities for Growth
+## Competitive benchmark
 
-- Introduce mechanics to reduce churn after failures
-- Develop re-engagement campaigns based on risk profiles
-- Leverage failure events to reinforce social bonds and engagement
-- Align event timing and messaging with risk-based player behaviour
+Comparative reference to Rise of Kingdoms and Clash Royale, focusing on:
+- role of risk mechanics in engagement systems
+- differences in risk–reward calibration across live service games
+- implications for behavioural targeting and campaign design
+
+---
+
+## Opportunities for growth
+
+- Develop structured recovery systems to reduce churn after failure events
+- Build re-engagement campaigns based on risk-based segmentation
+- Leverage failure moments as opportunities to reinforce social bonds
+- Align event design and messaging with behavioural risk profiles
