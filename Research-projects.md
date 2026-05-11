@@ -9,5 +9,5 @@ Applied qualitative research focused on organizational identity, volunteer exper
 ## [Household Projections in Italy (2030)](Projects/Research-projects/Houesholds-projections-in-Italy-2030.md)
 Quantitative demographic analysis examining household structure projections, population ageing, and regional socio-demographic dynamics.
 
-## [Player Behaviour and Engagement Systems in Clash of Clans](
+## [Player Behaviour and Engagement Systems in Clash of Clans](Projects/Research-projects/Player-behaviour-engagement-and-marketing-insights-in-Clash-of-Clans.md)
 Conceptual behavioural framework analysing retention, monetization, risk perception, and engagement systems in live-service gaming environments.
