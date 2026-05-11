@@ -15,7 +15,7 @@ Alongside my research background, I have developed growing experience and intere
 
 Quantitative and qualitative research projects focused on behavioral analysis, demographic studies, and structured investigation of decision-making processes.
 
-### [E-commerce projects]
+### [E-commerce operations and digital systems projects](Ecommerce-operations-and-digital-systems.md)
 
 Applied projects focused on e-commerce systems, product data management, catalog structure, user navigation, and workflow optimization.
 
