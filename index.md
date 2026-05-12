@@ -11,7 +11,7 @@ Alongside my research background, I have developed growing experience and intere
 
 ## Projects
 
-### [Research projects](Research-projects.md)
+### [Behavioural and systems analysis](Behavioural-and-systems-analysis.md)
 Quantitative and qualitative research projects focused on behavioral analysis, demographic studies, and structured investigation of decision-making processes.
 
 ### [E-commerce operations and digital systems projects](Ecommerce-operations-and-digital-systems.md)
