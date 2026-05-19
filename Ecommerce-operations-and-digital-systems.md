@@ -1,3 +1,3 @@
 # E-commerce operations and digital systems
 
-## [IKEA - Navigation and product discovery optimization]
+## [Business workflow automation and customer engagement logic in Python]
