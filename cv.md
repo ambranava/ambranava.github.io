@@ -69,6 +69,7 @@ Interviews, surveys, focus groups; experience with diverse populations; communit
 
 **Bachelor of Science in Psychology (Organizations and Marketing)**  
 *September 2011 - December 2014, Università Cattolica del Sacro Cuore, Milan, Italy* 
+
 Bachelor's Dissertation (Literature-Based Research)
 *Problem Solving in Mathematics: Rule-Based Application or Creative Process?*
 - Conducted literature review on mathematical problem solving and creativity    
