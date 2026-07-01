@@ -26,9 +26,7 @@ Interviews, surveys, focus groups; experience with diverse populations; communit
 ## RESEARCH EXPERIENCE 
 
 **Communication and Identity Analysis Project  - T.A.I. (Telefono Amico Italia)** 
-
 *January 2014 - June 2014, Milan*
-
 - Contributed to a qualitative research project on communication patterns and identity dynamics in a voluntary listening service context 
 - Participated in the full research cycle under academic supervision, including study design, data collection, qualitative analysis, and synthesis of findings     
 - Conducted and observed focus groups and ideation sessions 
@@ -37,9 +35,7 @@ Interviews, surveys, focus groups; experience with diverse populations; communit
 - Engaged in sensitive anonymised contexts involving vulnerable participants  
 
 **National Census Data Collection  - ISTAT (Italian National Institute of Statistics)**
-
 *September 2018 – December 2018, Mariano Comense (Como, Italy)*
-
 - Conducted structured data collection via face-to-face, telephone, and institutional surveys     
 - Ensured accuracy, consistency, and confidentiality of large-scale demographic datasets  
 - Engaged with diverse socio-demographic populations 
@@ -48,9 +44,7 @@ Interviews, surveys, focus groups; experience with diverse populations; communit
 - Contributed to data quality for national policy and planning 
 
 **Demographic Trends and Population Modelling  - Advanced Academic Project** 
-
 *January 2016 - June 2016, Milan*
-
 - Completed postgraduate-level coursework project in demographic modelling and biostatistics 
 - Analysed ISTAT datasets on population ageing and household structure dynamics   
 - Applied statistical methods using SPSS and Excel to identify demographic trends 
@@ -61,9 +55,7 @@ Interviews, surveys, focus groups; experience with diverse populations; communit
 ## PROFESSIONAL EXPERIENCE 
 
 **Data Management & Research Support - Elis, Beesique, project-based roles** 
-
 *March 2023 - July 2025, remote*
-
 - Supported data-driven projects in international multidisciplinary environments, contributing to data management and reporting 
 - Managed, cleaned, and validated datasets ensuring quality and usability for reporting and decision-making  
 - Produced analytical outputs including tables, summaries, and visualisations 
@@ -76,9 +68,7 @@ Interviews, surveys, focus groups; experience with diverse populations; communit
 ## EDUCATION
 
 **Bachelor of Science in Psychology (Organizations and Marketing)**  
-
 *September 2011 - December 2014, Università Cattolica del Sacro Cuore, Milan, Italy* 
-
 Bachelor's Dissertation (Literature-Based Research)
 *Problem Solving in Mathematics: Rule-Based Application or Creative Process?*
 - Conducted literature review on mathematical problem solving and creativity    
@@ -89,24 +79,20 @@ Bachelor's Dissertation (Literature-Based Research)
 - ---
 
 ## RESEARCH INTERESTS
-
 Community-based research | Mixed-methods research | Science communication | Informal education | Social inclusion | Behavioural research | Evaluation of educational interventions 
 
 ---
 
 ## CERTIFICATIONS
-
 - Google Data Analysis with Python - Google  
 - Elements of AI - University of Helsinki
 - Excel for Business Specialization - Macquarie University 
 
 ## LANGUAGES 
-
 Italian (Native) | English (C1) | Dutch (B1) | Norwegian (A2) | German (A2)
 
 ---
 
 ## REFERENCES 
-
 Available upon request
 
