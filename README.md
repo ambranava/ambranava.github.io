@@ -1,16 +1,14 @@
 Portfolio website: https://ambranava.github.io/
 
-# Digital systems and e-commerce operations portfolio
+# Research and e-commerce operations portfolio
 
-This repository presents selected projects across two complementary areas: research-based analysis and e-commerce systems optimization.
-
-The work focuses on understanding and improving digital systems through structured analysis of user behavior, data, and operational workflows. Across both research and ecommerce contexts, the core approach remains consistent: defining problems clearly, applying structured methodologies, and translating findings into actionable insights for system and process improvement.
+This repository presents selected projects across two complementary areas: psychosocial research and e-commerce systems optimization.
 
 ## Repository structure
 
 ### Research Projects
 
-This section includes research-oriented projects focused on behavioral analysis, demographic trends, and structured investigation of decision-making processes in different contexts.
+This section includes research-oriented projects focused on behavioral analysis, demographic trends, and structured investigation of decision-making and representation processes in different contexts.
 
 The projects demonstrate the ability to:
 - define and structure complex analytical problems
